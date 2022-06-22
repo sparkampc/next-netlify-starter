@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <script src="https://storage.googleapis.com/sparkamplify-dist/widget/customer-script.js" type="text/javascript" async></script>
       </Head>
 
       <main>
